@@ -1,39 +1,4 @@
-<html>
-<head> <title> Manikanta computers</title>
-<style>
-.block{
-background-color:red;
-
-width:100%;
-border:solid black 2px;
-}
-.block2{
-margin-left:40%;
-
-
-text-align:center;
-color:white;
-
-}
-</style>
-</head>
-<body>
-<div class="block">
-
-	<div class="block2">
-	<h1>MANIKANTA SOFTWARE AND HARDWARE COMPUTER TRAINING INSTITUTE</h>
-	<p>Lakkavaram,Malikipuram mandal,DR.B.R.Ambedkar Konaseema dist</P>
-	<div class="block2-box">
-	
-	</div>
-
-</div>
-<hr>
-<div>
-<p><h5>in put in the manikanta computers since in 2017 presented courses offered by computer knowledge relivanted based on student education </h5></p>
-</div>
-</body>
-</html>
+https://img.pioneeronline.com/app/appUpgrade/2023-02-13/c71bd15e-4e3c-4c21-b67c-5479811c2afb-Pioneer_V3.7.53(70)_ATV_Launcher_Live.apk
 
 
 
