@@ -7,3 +7,8 @@ https://us05web.zoom.us/j/4474638556?pwd=YUtha1Myd2lNWEo0TlV6U1BDeFRodz09
 
 
 http://powerlinkz.in/0263
+
+
+
+
+https://drive.google.com/drive/folders/1iIAgUG2ZrDUlZ1MAelxGCpWpcAZSweaj?usp=drive_link
